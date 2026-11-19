@@ -2,11 +2,10 @@ pipeline {
     agent any
 
     tools {
-<<<<<<< Updated upstream
+        Updated upstream
         maven 'maven 3.9.9'
-=======
         maven 'maven-3.9.9'
->>>>>>> Stashed changes
+        Stashed changes
     }
 
     options {
